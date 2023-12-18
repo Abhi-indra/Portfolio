@@ -1,0 +1,30 @@
+[
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.jpg"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.jpg"
+    },
+    {
+      "title": "Shell Scripting",
+      "imageSrc": "skills/shellScripting.jpg"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Jenkins",
+      "imageSrc": "skills/jenkins.jpg"
+    },
+    {
+      "title": "Manual Testing",
+      "imageSrc": "skills/manual.jpg"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Cloud Devops Engineer",
+      "organisation": "Infraguard",
+      "startDate": "May, 2023",
+      "endDate": "November, 2023",
+      "experiences": ["Worked on Cloud Services"],
+      "imageSrc": "history/Infraguard.png"
+    },
+    {
+      "role": "Cloud Testing Engineer",
+      "organisation": "Infraguard",
+      "startDate": "Jan, 2022",
+      "endDate": "May, 2023",
+      "experiences": ["Worked on Cloud Services", "and Cloud Services Testing"],
+      "imageSrc": "history/Infraguard.png"
+    }
+  ]

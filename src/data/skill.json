@@ -1,0 +1,54 @@
+[
+    {
+        "title": "AWS",
+        "imageSrc": "skills/aws.jpg"
+      },
+      {
+        "title": "Linux",
+        "imageSrc": "skills/linux.jpg"
+      },
+      {
+        "title": "Shell Scripting",
+        "imageSrc": "skills/shellScripting.jpg"
+      },
+      {
+        "title": "Docker",
+        "imageSrc": "skills/docker.png"
+      },
+      {
+        "title": "Jenkins",
+        "imageSrc": "skills/jenkins.jpg"
+      },
+      {
+        "title": "Manual Testing",
+        "imageSrc": "skills/manual.jpg"
+      },
+      {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+      },
+      {
+        "title": "Python",
+        "imageSrc": "skills/python.jpg"
+      },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.jpg"
+    }
+  ]
